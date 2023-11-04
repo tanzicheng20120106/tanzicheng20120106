@@ -1,0 +1,39 @@
+.top {
+    background-image: url(back.jpg);
+    background-size: cover;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    height: 500px;
+    -webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    border-radius: 11px;
+}
+.main {
+    background: #4284DB;
+    background: -webkit-linear-gradient(to right, #29EAC4, #4284DB);
+    background: linear-gradient(to right, #29EAC4, #4284DB); 
+}
+.blog {
+    box-shadow: 0 0 10px #b8b7b7;
+    background-color: white;
+    margin-top: 20px;
+    display: flex;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+}
+.h1{
+   margin:0 auto;
+}
+.blog_href {
+    text-decoration: none;
+    color: darkgreen;
+}
+.title {
+    text-decoration: none;
+    color: indianred;
+}
+.blog_lable {
+    margin-bottom: 2rem;
+}
